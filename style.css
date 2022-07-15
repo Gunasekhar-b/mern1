@@ -1,0 +1,51 @@
+body{
+  background-color:#54BAB9;
+  font-family: 'Edu QLD Beginner', cursive;
+  background: url("background.jpg");
+  background-size: 100% 100%;
+ color:white;
+
+
+}
+h2{
+  background-color:orange;
+  margin: 0 0;
+}
+h1{
+    margin: 10px 0;
+}
+textarea{
+    opacity:0.5;
+    font-size:17px;
+
+}
+
+#input{
+  border:1px solid blue;
+  display: inline-block;
+  width:500px;
+  height:550px;
+  margin-left:30px;
+
+}
+#output{
+
+    border:1px solid red;
+    display: inline-block;
+    width:500px;
+    height:550px;
+    background-color: white;
+    opacity:0.7;
+    float: right;
+    margin-right:120px;
+    overflow: scroll;
+
+}
+#inputtext{
+  display: inline-block;
+  float: left;
+}
+pre{
+  color: black;
+  font-size:18px;
+}
